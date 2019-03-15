@@ -1,0 +1,6 @@
+framework module Pods_CNCTest {
+  umbrella header "Pods-CNCTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

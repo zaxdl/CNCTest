@@ -1,0 +1,20 @@
+PODS:
+  - CocoaAsyncSocket (7.6.3)
+  - Starscream (3.0.6)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - Starscream
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CocoaAsyncSocket
+    - Starscream
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: eafaa68a7e0ec99ead0a7b35015e0bf25d2c8987
+  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+
+PODFILE CHECKSUM: 58339abe876fb276e7f4702ee7e57517a1d030b5
+
+COCOAPODS: 1.5.3
